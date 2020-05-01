@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "faleconoscopage",
-    "currentPage": "orcamento.html",
+    "currentPage": "httpsmarconematos.github.iomarconematosorcamento.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -155,9 +155,9 @@
         }
       ]
     },
-    "orcamento.html": {
+    "httpsmarconematos.github.iomarconematosorcamento.html": {
       "settings": {
-        "meta_descr": "Web Page Builder Description",
+        "meta_descr": "",
         "title": "orcamento",
         "order": 2
       },
